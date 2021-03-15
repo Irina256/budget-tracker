@@ -20,7 +20,7 @@ Go to https://damp-hamlet-23141.herokuapp.com/ or download this app to your phon
 
 ### Example Screenshot:
 
-![Example](./public/css/images/Screenshot.png)
+![Example](./images/Screenshot.png)
 
 ## Credits
 
